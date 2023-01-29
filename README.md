@@ -1,4 +1,8 @@
-# Image_captioning_app
+
+<div align="center">
+ <h2>  Image_captioning_app </h2>
+</div>
+
 
 A simple Flask app that captions the image uploaded by users!
 <br>
